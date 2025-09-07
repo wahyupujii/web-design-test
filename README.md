@@ -38,3 +38,6 @@ Proyek ini menggunakan **CSS Modules** untuk mengatasi beberapa masalah umum yan
 ## Ilustrasi
 
 Ilustrasi yang digunakan dalam proyek ini berasal dari [unDraw](https://undraw.co/search). Secara khusus, gambar `hero.svg` digunakan di halaman utama.
+
+## Hasil Screenshot
+![alt text](image.png)
