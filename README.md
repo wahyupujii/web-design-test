@@ -2,6 +2,14 @@
 
 Dokumentasi ini memberikan rincian tentang font dan ilustrasi yang digunakan dalam proyek ini.
 
+## CSS Module
+
+Proyek ini menggunakan **CSS Modules** untuk mengatasi beberapa masalah umum yang sering terjadi pada CSS biasa, seperti:
+
+1.  Menghindari konflik nama class
+2.  Scope lokal
+3.  Struktur yang lebih rapi
+
 ## Font
 
 - **Jenis Font**: Font utama yang digunakan di seluruh situs web adalah **Roboto**, dengan fallback ke `sans-serif`. Font ini dipilih karena sudah sangat familiar digunakan untuk UI website maupun Apps
