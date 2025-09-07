@@ -1,0 +1,21 @@
+.hero {
+    margin-top: 40px;
+    padding: 0 100px;
+}
+
+.heroText {
+    font-size: 14px;
+    margin-bottom: 40px;
+    color: #333;
+}
+
+.quote {
+    font-style: italic;
+    margin: 30px 0;
+    color: #555;
+}
+
+.illustration img {
+    width: 300px;
+    margin-top: 20px;
+}

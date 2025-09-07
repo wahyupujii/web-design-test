@@ -1,0 +1,15 @@
+.app {
+  text-align: center;
+}
+
+.container {
+  width: 80%;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+@media (max-width: 1068px) {
+  .container {
+    width: 100%;
+  }
+}
